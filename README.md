@@ -6,7 +6,7 @@ A simple weather script written in Python that is using https://openweathermap.o
 ## Install
 Install requests
 
-pip -install requests
+````pip -install requests```
 
 ## Create API-Key from
 
