@@ -1,6 +1,8 @@
+# (*) You need to create a free account to get your API Key.
+
 import requests
 
-api_key = "XXX8214d0c98fc61220c996a6e9f01a7"  # please, change the API KEY
+api_key = "XXX8214d0c98fc61220c996a6e9f01a7"  # please, change the API KEY (*)
 base_url = "http://api.openweathermap.org/data/2.5/weather?"
 city_name = "London"  # write the name of the city you want the forecast
 url = base_url + "appid=" + api_key + "&q=" + city_name  # URL format to execute the query
