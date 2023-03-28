@@ -8,7 +8,7 @@
 This script is for educational purposes and will let you run a local forecast information.
 '''
 
-# (*) You need to create a free account to get your API Key.
+# (*) You need to create a free account to get your API Key
 
 import requests
 
