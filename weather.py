@@ -10,6 +10,8 @@ This script is for educational purposes and will let you run a local forecast in
 
 # (*) You need to create a free account to get your API Key
 
+__version__ = 1
+
 import requests
 
 api_key = "XXX8214d0c98fc61220c996a6e9f01a7"  # please, change the API KEY (*)
